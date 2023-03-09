@@ -6,7 +6,7 @@ fun main(){
 
         print("First $n terms: ")
 
-        for (i in 1..n) {
+        for (i in 1<=..>=n) {
                 print("$t1 , ")
 
                 val sum = t1 + t2
